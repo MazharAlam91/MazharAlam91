@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm a BTech Computer Science student specializing in Cyber Security 🔐, with a keen interest in Full Stack Development 🌍.<br><br>🚀 Currently exploring MERN stack and refining my Python development skills.<br>💻 Passionate about building web applications, open-source contributions, and cybersecurity.<br>🎯 Looking for opportunities in Full Stack Development & Cybersecurity.
 
-<img src="https://user-images.githubusercontent.com/62322907/109534565-79863180-7ae1-11eb-97a9-3c7b68163b14.gif" width=40% align="right" />
+<img src="https://user-images.githubusercontent.com/62322907/109534565-79863180-7ae1-11eb-97a9-3c7b68163b14.gif" width=30% align="right" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mazhar-alam-b7b137279) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mansoorimazhar91@gmail.com) 
